@@ -104,15 +104,15 @@ while(building){
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/krish-korat-38061333a/)">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:koratkrish1@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Krish-s-lab">
   <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
