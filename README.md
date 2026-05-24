@@ -1,127 +1,210 @@
-<h1 align="center">Hey 👋, I'm Krish Korat</h1>
-<h3 align="center">Backend Developer ⚙️ | Building Scalable APIs & Backend Systems 🚀</h3>
+<h1 align="center">⚡ Krish Korat ⚡</h1>
+
+<h3 align="center">
+Backend Developer • API Architect • Problem Solver 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+REST+API+%7C+Databases;Learning+and+Building+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+⚙️;Building+Scalable+Systems+🚀;Node.js+•+REST+APIs+•+Databases;Clean+Code+%7C+Performance+%7C+Architecture;Always+Learning+Something+New+🔥" />
 </p>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- ⚙️ Backend Developer passionate about scalable systems  
-- 🌱 Currently exploring advanced backend architecture  
-- 💡 Love building APIs, databases & real-world applications  
-- 🔥 Consistent learner and problem solver  
-- 🎯 Focused on clean code and performance optimization  
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
-## ⚒️ Tech Stack
+# 🚀 About Me
+
+```yaml
+name: Krish Korat
+role: Backend Developer
+focus: Scalable Backend Systems
+currently_learning:
+  - Advanced Backend Architecture
+  - System Design
+  - Performance Optimization
+
+passionate_about:
+  - REST APIs
+  - Databases
+  - Clean Architecture
+  - Real-world Backend Systems
+```
+
+---
+
+# ⚙️ Backend Arsenal
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,nodejs,nextjs,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,mongodb,mysql,js,html,css,c,cpp,git,github,vscode" />
 
 </p>
 
 ---
 
-## 🧠 Backend Skills
+# 🧠 Backend Expertise
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,nextjs" />
+| 🚀 Backend | 🗄️ Database | ⚡ Tools |
+|---|---|---|
+| REST APIs | MongoDB | Git |
+| Node.js | MySQL | GitHub |
+| Sequelize ORM | Database Design | VS Code |
+| Authentication | Query Optimization | Postman |
+| JWT | Relationships | Debugging |
 
-</p>
-
-### ⚡ Technologies I Work With
-
-- REST APIs
-- Sequelize ORM
-- Authentication & Authorization
-- JWT
-- CRUD Operations
-- API Integration
-- Database Design
-- Responsive Web Apps
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 🔥 What I Build
 
-### 🔐 Authentication System
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Authentication Systems
 - JWT Authentication
-- Login / Signup
-- Password Hashing
-- Protected Routes
+- Secure Login/Signup
+- Role-based Access
+- Protected APIs
 
-### 💬 Realtime Chat App
+</td>
+
+<td width="50%">
+
+### 💬 Realtime Applications
 - Socket.IO
-- Live Messaging
-- Online Users
-- Typing Indicator
+- Live Chat Systems
+- Real-time Updates
+- Event-driven Systems
 
-### 🛒 E-Commerce Backend
-- Product APIs
-- Cart System
-- Orders & Payments
-- Admin Features
+</td>
+</tr>
 
-### 📂 File Upload System
-- Multer
+<tr>
+<td width="50%">
+
+### 🛒 Scalable Backend APIs
+- E-Commerce APIs
+- Payment Integration
+- Admin Systems
+- Order Management
+
+</td>
+
+<td width="50%">
+
+### 📂 File Management Systems
+- Upload APIs
 - Cloud Storage
-- Image Upload APIs
+- Image Processing
+- Media Handling
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Activity Graph
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 🛠️ Current Focus
+
+```js
+const krish = {
+    code: ["JavaScript", "C", "C++"],
+    
+    backend: ["Node.js", "REST APIs", "Sequelize"],
+
+    databases: ["MongoDB", "MySQL"],
+
+    frontend: ["HTML", "CSS", "Next.js"],
+
+    currentlyWorkingOn: "Scalable Backend Systems 🚀",
+
+    lifePhilosophy: "Build. Break. Debug. Learn. Repeat."
+};
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Developer Mindset
 
-```js
+<div align="center">
+
+```cpp
 while(!success){
-   keepLearning();
-   keepBuilding();
+    learn();
+    build();
+    debug();
+    repeat();
 }
 ```
 
+</div>
+
+---
+
 <p align="center">
-  🚀 Turning ideas into scalable backend systems ⚙️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+
 </p>
