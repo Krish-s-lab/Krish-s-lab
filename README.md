@@ -8,9 +8,7 @@
   Backend Developer focused on scalable APIs and clean backend architecture.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krish-s-lab&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
