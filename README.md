@@ -8,6 +8,10 @@
   Backend Developer focused on scalable APIs and clean backend architecture.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Krish-s-lab&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 ## ⚡ About Me
@@ -21,6 +25,8 @@ Focus:
   - Backend Systems
   - Databases
   - Clean Architecture
+
+Status: Building & Learning 🚀
 ```
 
 ---
@@ -52,10 +58,17 @@ Focus:
 
 ## 📌 Featured Projects
 
-- 🔐 Authentication System
-- 💬 Realtime Chat Application
-- 🛒 E-Commerce Backend
-- 📂 File Upload Service
+### 🔐 Authentication System
+JWT authentication and secure API authorization system.
+
+### 💬 Realtime Chat Application
+Realtime communication platform using Socket.IO.
+
+### 🛒 E-Commerce Backend
+Scalable backend APIs for products, orders, and payments.
+
+### 📂 File Upload Service
+Cloud-integrated file upload and media handling APIs.
 
 ---
 
@@ -91,15 +104,15 @@ while(building){
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/krish-korat-38061333a/">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="mailto:koratkrish1@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
-<a href="https://github.com/Krish-s-lab">
+<a href="https://github.com/YOUR_USERNAME">
   <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
